@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const app = express();
 const PORT = 3500;
-const token = "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"
+const token = "" // Your Token Here
 const username = 'torvalds';
 
 app.listen(PORT,() =>
