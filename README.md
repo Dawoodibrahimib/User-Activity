@@ -19,7 +19,7 @@ The GitHub User Activity Tracker is a simple Node.js application that allows you
 - A GitHub personal access token for authenticated requests (optional but recommended)
 
 ## Project URL
-[GitHub User Activity Tracker](https://github.com/Dawoodibrahimib/User-Activity)  <!-- Replace with your actual project URL -->
+[GitHub User Activity Tracker](https://dawoodibrahimib.github.io/User-Activity/)  <!-- Replace with your actual project URL -->
 
 
 
