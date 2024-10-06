@@ -11,11 +11,18 @@ The GitHub User Activity Tracker is a simple Node.js application that allows you
   - Repositories starred
   - Pull requests opened or closed
 - Easily configurable with user-specific information.
+- 
 
 ## Prerequisites
 - Node.js (version 14 or higher)
 - NPM (Node Package Manager)
 - A GitHub personal access token for authenticated requests (optional but recommended)
+
+## Project URL
+[GitHub User Activity Tracker](https://github.com/Dawoodibrahimib/User-Activity)  <!-- Replace with your actual project URL -->
+
+
+
 
 ## Installation
 
